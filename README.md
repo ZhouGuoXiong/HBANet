@@ -1,2 +1,2 @@
 # HBANet
-一种准确的梨部位检测模型HBANet，用于辅助梨分选和梨部位检测的基准
+An Accurate Pear Part Detection Model HBANet for Aided Pear Sorting and Pear Part Detection Benchmark
